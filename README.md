@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Hello%20There%20👋&fontSize=80&animation=fadeIn)
-<h3 align="left">Hi there, I'm Rosie 🌹ヾ(•ω•`)o</h3>
-<h1 align="left">I'm a Front-End Web Developer Graduate 💻 👩‍🎓</h1>
+<h3 align="center">Hi there, I'm Rosie 🌹ヾ(•ω•`)o</h3>
+<h1 align="center">I'm a Front-End Web Developer Graduate 💻 👩‍🎓</h1>
 
 <div>I'm a huge fan of computer programming and love the challenges of debugging or refactoring codes in HTML/CSS and JavaScript. I thoroughly don't like spending hours on a computer by myself as I generally thrive with others around me! Lastly meeting new people and learning their experiences is great way to start off a day 🌞</div>
 
