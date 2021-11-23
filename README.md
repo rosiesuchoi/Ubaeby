@@ -13,7 +13,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+### Interest(ed?)
 - 👀 I’m interested in learning new exciting things about computers such as a Software engineer side of things and solving puzzles.
-        I love playing connect 4 and I plan on trying to learn Python and React, and possibly much more!
-        - 💞️ I’m looking to collaborate on anything Front-Web development that follows HTML, JS, and CSS.
+        I love playing connect 4 and I plan on learning Python, React, Ruby and possibly much more!
+- 💞️ I’m looking to collaborate on anything Front-Web development and potentially picking up new syntax and coding tricks!
 - 📫 How to reach me? Let contact = ["Discord? Ubaeby#1789", "Email? christianchoi45@gmail.com"]
+
