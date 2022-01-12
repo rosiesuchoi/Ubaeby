@@ -9,6 +9,7 @@
 - I’m proficient in reading and writing HTML , JS, CSS.
 - I utilize programs to write codes, such as Visual Studio Code, GitHub (obviously), and CodePen
 - Debugging, API Fetch Request, DOM (Document Object Model)
+- Currently learning Java 16.02 edition and IntelliJ IDEA
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
