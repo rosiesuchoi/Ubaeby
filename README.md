@@ -6,10 +6,10 @@
 
 ### 📃 Technical Skills
 
-- I’m proficient in reading and writing HTML , JS, CSS.
+- I’m proficient in reading and writing HTML , JS, and CSS
 - I utilize programs to write codes, such as Visual Studio Code, GitHub (obviously), and CodePen
 - Debugging, API Fetch Request, DOM (Document Object Model)
-- Currently learning Java 16.02 edition and IntelliJ IDEA
+- Graduated from Coding Dojo, and gained proficiency in Java, Python, and React
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,7 +24,7 @@
 
 ### 🤗 Interest(ed?)
 - 👀 I’m interested in learning new exciting things about computers such as a Software engineer side of things and solving puzzles.
-        I love playing connect 4 and I plan on learning Python, React, Ruby and possibly much more!
+        I also have a dream to become a software dev for a game company, hopefully one day Discord or Riot will pick me up!
 - 💞️ I’m looking to collaborate on anything Front-Web development and potentially picking up new syntax and coding tricks!
 - 🤝 Contact Me:  <a href="https://www.linkedin.com/in/pocketfilledwithrosies/"><img align="auto" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Credit goes to Yu Shi 95 for the Pic Link" width="22px"/></a>
 
