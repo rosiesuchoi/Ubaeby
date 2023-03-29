@@ -26,6 +26,7 @@
 - 👀 I’m interested in learning new exciting things about computers such as a Software engineer side of things and solving puzzles.
         I also have a dream to become a software dev for a game company, hopefully one day Discord or Riot will pick me up!
 - 💞️ I’m looking to collaborate on anything Front-Web development and potentially picking up new syntax and coding tricks!
+- Currently, learning three.js, WebGL, Figma to incorporate 3d Web Designing!
 - 🤝 Contact Me:  <a href="https://www.linkedin.com/in/pocketfilledwithrosies/"><img align="auto" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Credit goes to Yu Shi 95 for the Pic Link" width="22px"/></a>
 
 
