@@ -2,14 +2,15 @@
 <h3 align="center">Hi there, I'm Rosie 🌹ヾ(•ω•`)o</h3>
 <h1 align="center">I'm a Full-Stack Software Engineer 💻 👩‍🎓</h1>
 
-<div>I'm a huge fan of computer programming and love the challenges of debugging or refactoring codes in HTML/CSS and JavaScript. I thoroughly don't like spending hours on a computer by myself as I generally thrive with others around me! Lastly meeting new people and learning their experiences is great way to start off a day 🌞</div>
+<div>I'm a huge fan of computer programming and love the challenges of debugging or refactoring codes in HTML/CSS and JavaScript. I thoroughly don't like spending hours on a computer by myself as I generally thrive with others around me! Currently, I'm attending University of Washington studying Computer Science with an expectation of graduation in 2027! Lastly meeting new people and learning their experiences is great way to start off a day 🌞</div>
 
 ### 📃 Technical Skills
 
 - I’m proficient in reading and writing HTML , JS, and CSS
-- I utilize programs to write codes, such as Visual Studio Code, GitHub (obviously), and CodePen
+- I utilize programs to write codes, such as Visual Studio Code, GitHub, and CodePen
 - Debugging, API Fetch Request, DOM (Document Object Model)
 - Graduated from Coding Dojo, and gained proficiency in Java, Python, and React
+- Currently studying advanced Java and algorithms
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,7 +28,7 @@
         I also have a dream to become a software dev for a game company, hopefully one day Discord or Riot will pick me up!
 - 💞️ I’m looking to collaborate on anything Front-Web development and potentially picking up new syntax and coding tricks!
 - Currently, learning three.js, WebGL, Figma to incorporate 3d Web Designing!
-- 🤝 Contact Me:  <a href="https://www.linkedin.com/in/pocketfilledwithrosies/"><img align="auto" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Credit goes to Yu Shi 95 for the Pic Link" width="22px"/></a>
+- 🤝 Contact Me:  <a href="https://www.linkedin.com/in/rosiesuchoi/"><img align="auto" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Credit goes to Yu Shi 95 for the Pic Link" width="22px"/></a>
 
 
 <!-- Credit for the header goes to https://github.com/kyechan99/capsule-render -->
